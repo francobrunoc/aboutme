@@ -1,6 +1,14 @@
 <template>
   <main>
-    <v-google-translate @select="googleTranslateSelectedHandler" />
+    <button
+      class="fixed top- 0 right-0 p-2 m-2 bg-white rounded-full shadow-lg"
+      @click="showtranslator()"
+    >
+      @
+    </button>
+    <div ref="googleTranslate" style="visibility: hidden">
+      <v-google-translate />
+    </div>
     <Curriculum />
   </main>
 </template>
@@ -22,9 +30,12 @@ export default {
     };
   },
   methods: {
-    googleTranslateSelectedHandler(language) {
-      const { code, name, cname, ename } = language;
-      // todo ...
+    showtranslator() {
+      if (this.$refs.googleTranslate.style.visibility === "visible") {
+        this.$refs.googleTranslate.style.visibility = "hidden";
+        return;
+      }
+      this.$refs.googleTranslate.style.visibility = "visible";
     },
   },
 };

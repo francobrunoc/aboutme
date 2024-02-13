@@ -19,7 +19,7 @@
         text-align: left;
       "
     >
-      DESENVOLVER DE SOFTWARE
+      DESENVOLVEDOR DE SOFTWARE
     </p>
     <p class="s1" style="padding-left: 9pt; text-indent: 0pt; text-align: left">
       &amp; ENGENHEIRO ELETRÔNICO
@@ -51,7 +51,7 @@
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h2
       style="
-        padding-top: 30pt;
+        padding-top: 35pt;
         padding-left: 6pt;
         text-indent: 0pt;
         text-align: left;
@@ -148,7 +148,7 @@
     <h2
       style="
         padding-left: 5pt;
-        padding-top: 30pt;
+        padding-top: 40pt;
         text-indent: 0pt;
         text-align: left;
       "
@@ -171,7 +171,7 @@
     <h2
       style="
         padding-left: 6pt;
-        padding-top: 30pt;
+        padding-top: 40pt;
         text-indent: 0pt;
         text-align: left;
       "
@@ -217,7 +217,7 @@
     </h3>
     <h2
       style="
-        padding-top: 30pt;
+        padding-top: 40pt;
         padding-left: 6pt;
         text-indent: 0pt;
         text-align: left;
@@ -400,7 +400,7 @@
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h2
       style="
-        padding-top: 30pt;
+        padding-top: 40pt;
         padding-left: 9pt;
         text-indent: 0pt;
         text-align: left;
@@ -417,7 +417,7 @@
         text-align: left;
       "
     >
-      Fullstack Developer at Cia Latinoamericana de Medicamentos (CLAMED)
+      Fullstack Developer na Cia Latinoamericana de Medicamentos (CLAMED)
     </h3>
     <p class="s3" style="padding-left: 9pt; text-indent: 0pt; text-align: left">
       out 2021 Joinville - Santa Catarina / BR
@@ -542,7 +542,7 @@
             text-align: left;
           "
         >
-          Software Engineer - Prime Serviços Médicos Ltda
+          Software Engineer na Prime Serviços Médicos Ltda
         </h3>
         <p
           class="s3"
@@ -575,7 +575,7 @@
         </p>
         <p style="text-indent: 0pt; text-align: left"><br /></p>
         <h3 style="padding-left: 9pt; text-indent: 0pt; text-align: left">
-          Frontend Software Developer Ommed
+          Frontend Software Developer na Ommed
         </h3>
         <p
           class="s3"
@@ -799,7 +799,7 @@
         </p>
         <p style="text-indent: 0pt; text-align: left"><br /></p>
         <h3 style="padding-left: 9pt; text-indent: 0pt; text-align: left">
-          Software Developer Grupo Dimed
+          Software Developer no Grupo Dimed
         </h3>
         <p
           class="s3"
@@ -942,7 +942,7 @@
         text-align: left;
       "
     >
-      Java Programmer Safetech Informática
+      Java Programmer na Safetech Informática
     </h3>
     <p
       class="s3"
@@ -974,7 +974,7 @@
     </p>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3 style="padding-left: 9pt; text-indent: 0pt; text-align: left">
-      IT Analyst Johann Alimentos
+      IT Analyst na Johann Alimentos
     </h3>
     <p
       class="s3"
@@ -1013,7 +1013,7 @@
         text-align: left;
       "
     >
-      Electronics Technician ChipByte Informática
+      Electronics Technician na ChipByte Informática
     </h3>
     <p
       class="s3"
@@ -1049,7 +1049,7 @@
         text-align: left;
       "
     >
-      Electronics Technician New Tech Informática
+      Electronics Technician na New Tech Informática
     </h3>
     <p
       class="s3"
@@ -1086,7 +1086,7 @@
         text-align: left;
       "
     >
-      Electronics Technician
+      Electronics Technician na
     </h3>
     <h3 style="padding-left: 9pt; text-indent: 0pt; text-align: left">
       Himaco Hidraulicos E Maquinas Ind. E Com Ltda
