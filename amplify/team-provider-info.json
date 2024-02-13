@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-francocv-dev-221258-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975078614951:role/amplify-francocv-dev-221258-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975078614951:role/amplify-francocv-dev-221258-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-francocv-dev-221258-deployment",
+      "UnauthRoleName": "amplify-francocv-dev-221258-unauthRole",
+      "StackName": "amplify-francocv-dev-221258",
+      "StackId": "arn:aws:cloudformation:us-east-1:975078614951:stack/amplify-francocv-dev-221258/094ab2a0-ca0d-11ee-b838-12f6d34065c1"
+    }
+  }
+}
