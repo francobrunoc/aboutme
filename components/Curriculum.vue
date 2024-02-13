@@ -19,10 +19,10 @@
         text-align: left;
       "
     >
-      SOFTWARE DEVELOPER
+      DESENVOLVER DE SOFTWARE
     </p>
     <p class="s1" style="padding-left: 9pt; text-indent: 0pt; text-align: left">
-      &amp; ELECTRONICS ENGINEER
+      &amp; ENGENHEIRO ELETRÔNICO
     </p>
     <p style="padding-top: 8pt; text-indent: 0pt; text-align: right">
       <a href="mailto:francobrunoc@gmail.com">francobrunoc@gmail.com</a>
@@ -46,7 +46,7 @@
       https://github.com/francobrunoc
     </p>
     <p class="s2" style="padding-top: 6pt; text-indent: 0pt; text-align: right">
-      Brazil
+      Brasil
     </p>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h2
@@ -57,7 +57,7 @@
         text-align: left;
       "
     >
-      Profile
+      Perfil
     </h2>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <p
@@ -69,21 +69,9 @@
         text-align: left;
       "
     >
-      Full stack software developer. First contact with the wonderful world of
-      software at the
-    </p>
-    <p
-      class="s3"
-      style="
-        padding-left: 5pt;
-        text-indent: 0pt;
-        line-height: 132%;
-        text-align: left;
-      "
-    >
-      beginnings of popular computers in the late 90's, dealing with very low
-      level languages and ascending progressively as technology itself evolved
-      throughout time.
+      Desenvolvedor de software fullstack. Primeiro contato com o maravilhoso
+      mundo do software no final dos anos 90, lidando com linguagens de nível
+      baixo e ascendendo progressivamente à medida que a tecnologia evoluiu.
     </p>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h2
@@ -94,11 +82,11 @@
         text-align: left;
       "
     >
-      Education
+      Educação
     </h2>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3 style="padding-left: 5pt; text-indent: 0pt; text-align: left">
-      Bachelor Electronics Engineering
+      Bacharelado em Engenharia Eletrônica
     </h3>
     <p
       class="s3"
@@ -119,7 +107,7 @@
         text-align: left;
       "
     >
-      Emphasis in digital computers.
+      Ênfase em computadores.
     </p>
     <h3
       style="
@@ -129,7 +117,7 @@
         text-align: left;
       "
     >
-      Technician Electronics
+      Técnico em Eletrônica
     </h3>
     <p
       class="s3"
@@ -154,7 +142,7 @@
         text-align: left;
       "
     >
-      Emphasis in digital circuits.
+      Ênfase em circuitos digitais.
     </p>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h2
@@ -165,7 +153,7 @@
         text-align: left;
       "
     >
-      Languages
+      Idiomas
     </h2>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3
@@ -176,8 +164,8 @@
         text-align: left;
       "
     >
-      Advanced English <br />Basic Spanish<br />
-      Native Portuguese
+      Inglês avançado <br />Espanhol básico<br />
+      Português nativo
     </h3>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h2
@@ -188,11 +176,11 @@
         text-align: left;
       "
     >
-      Skills
+      Habilidades
     </h2>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3 style="padding-left: 5pt; text-indent: 0pt; text-align: left">
-      Building things from scratch
+      Construir coisas do zero
     </h3>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3
@@ -203,7 +191,7 @@
         text-align: left;
       "
     >
-      Apply standards
+      Aplicar padrões de projeto
     </h3>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3
@@ -214,7 +202,7 @@
         text-align: left;
       "
     >
-      Find solutions for errors
+      Cooperação ativa em equipes
     </h3>
     <h3
       style="
@@ -225,7 +213,7 @@
         text-align: left;
       "
     >
-      Active cooperation in teams
+      Solucionar problemas complexos
     </h3>
     <h2
       style="
@@ -235,7 +223,7 @@
         text-align: left;
       "
     >
-      Personal projects
+      Projetos pessoais
     </h2>
     <p style="text-indent: 0pt; text-align: left"><br /></p>
     <h3
