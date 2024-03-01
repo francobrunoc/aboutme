@@ -51,7 +51,6 @@ export default {
             "React JS",
             "Azure and AWS Cloud",
             "Serverless",
-            "Kotlin",
           ],
         },
         {
@@ -104,6 +103,7 @@ export default {
             "Jetty",
             "JBoss",
             "REST",
+            "Kotlin",
           ],
         },
         {
@@ -112,6 +112,17 @@ export default {
           location: "Sapiranga - Rio Grande do Sul / BR",
           description:
             "Professional experience in developing web applications based on Java and Groovy technologies. Improvement and productivity through frameworks like Grails, Struts and Spring. Development of customized commercial applications according to the company's area of activity.",
+          techList: [
+            "Java",
+            "Groovy",
+            "Grails",
+            "Struts",
+            "Spring",
+            "Hibernate",
+            "JasperReports",
+            "JasperServer",
+            "JasperSoft",
+          ],
         },
         {
           title: "IT Analyst na Johann Alimentos",
@@ -119,6 +130,7 @@ export default {
           location: "Estância Velha - Rio Grande do Sul / BR",
           description:
             "Worked as an IT assistant, becoming a support analyst with an emphasis on in systems development and maintenance, technical support, analysis and software approval and responsible for the entire IT infrastructure of the company.",
+          techList: ["Java", "Struts", "Spring", "Hibernate"],
         },
         {
           title: "Electronics Technician na ChipByte Informática",

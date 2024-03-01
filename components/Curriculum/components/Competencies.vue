@@ -22,6 +22,7 @@ export default {
         { id: 1, name: "HTML5" },
         { id: 2, name: "CSS3" },
         { id: 3, name: "JavaScript" },
+        { id: 5, name: "TypeScript" },
         { id: 4, name: "Linux" },
         { id: 16, name: "Docker" },
         { id: 17, name: "Kubernetes" },
