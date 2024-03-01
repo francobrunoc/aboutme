@@ -17,7 +17,7 @@
 import Vue from "vue";
 import vGoogleTranslate from "v-google-translate";
 import languages from "assets/languages";
-import Curriculum from "../components/Curriculum.vue";
+import Curriculum from "../components/Curriculum";
 
 Vue.use(vGoogleTranslate);
 
