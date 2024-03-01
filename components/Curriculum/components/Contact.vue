@@ -7,19 +7,21 @@
     <p class="contact-info">
       <a
         href="http://www.linkedin.com/in/franco-bruno-corteletti-2b5a9779"
-        class="a"
-        target="_blank"
-      >
-        https://
-      </a>
-      <a
-        href="http://www.linkedin.com/in/franco-bruno-corteletti-2b5a9779"
         target="_blank"
       >
         www.linkedin.com/in/franco-bruno-corteletti-2b5a9779
       </a>
     </p>
-    <p class="s2 contact-info">https://github.com/francobrunoc</p>
+    <p class="contact-info">
+      <a href="https://github.com/francobrunoc" target="_blank"
+        >github.com/francobrunoc</a
+      >
+    </p>
+    <p class="contact-info">
+      <a href="https://francobrunoc.github.io/aboutme" target="_blank"
+        >francobrunoc.github.io/aboutme/</a
+      >
+    </p>
     <p class="s2 contact-info">Brasil</p>
   </div>
 </template>
