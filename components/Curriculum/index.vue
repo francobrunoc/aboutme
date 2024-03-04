@@ -5,6 +5,7 @@
     <Profile />
     <Education />
     <Languages />
+    <Skills />
     <PersonalProjects />
     <ProfessionalExperience />
     <Competencies />
@@ -20,6 +21,7 @@ import Languages from "./components/Languages.vue";
 import PersonalProjects from "./components/PersonalProjects.vue";
 import ProfessionalExperience from "./components/Experience.vue";
 import Competencies from "./components/Competencies.vue";
+import Skills from "./components/Skills.vue";
 export default {
   name: "NuxtCV",
   components: {
@@ -28,6 +30,7 @@ export default {
     Profile,
     Education,
     Languages,
+    Skills,
     PersonalProjects,
     ProfessionalExperience,
     Competencies,

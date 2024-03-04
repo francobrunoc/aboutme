@@ -10,7 +10,13 @@
     <p class="empty-line"></p>
 
     <h3 class="skill-title">Cooperação ativa em equipes</h3>
+    <p class="empty-line"></p>
+
     <h3 class="skill-title">Solucionar problemas complexos</h3>
+    <p class="empty-line"></p>
+
+    <h3 class="skill-title">Personalidade orientada à objetivos</h3>
+    <p class="empty-line"></p>
   </div>
 </template>
 
