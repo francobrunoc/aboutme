@@ -95,7 +95,7 @@ export default {
           description:
             "Development and maintenance of web technological resources of the Dimed group (Dimed distributor, Panvel pharmacies and Lifar laboratories), using web and open source languages. Main technologies absorbed and improved:",
           techList: [
-            "Java",
+            "Java 8",
             "JSF",
             "Javascript",
             "Maven",
@@ -113,7 +113,8 @@ export default {
           description:
             "Professional experience in developing web applications based on Java and Groovy technologies. Improvement and productivity through frameworks like Grails, Struts and Spring. Development of customized commercial applications according to the company's area of activity.",
           techList: [
-            "Java",
+            "Java 7",
+            "Java 8",
             "Groovy",
             "Grails",
             "Struts",
@@ -129,8 +130,8 @@ export default {
           date: "jan 2008 - oct 2011",
           location: "Estância Velha - Rio Grande do Sul / BR",
           description:
-            "Worked as an IT assistant, becoming a support analyst with an emphasis on in systems development and maintenance, technical support, analysis and software approval and responsible for the entire IT infrastructure of the company.",
-          techList: ["Java", "Struts", "Spring", "Hibernate"],
+            "Worked as an IT assistant, becoming a support analyst with an emphasis on in systems development and maintenance, technical support, analysis and software approval and responsible for the entire IT infrastructure of the company. Later on I started as a developer team  part becoming my first professional contact with Java language and related tools:",
+          techList: ["Java 6", "Struts", "Spring", "Hibernate"],
         },
         {
           title: "Electronics Technician na ChipByte Informática",
