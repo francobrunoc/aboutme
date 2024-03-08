@@ -32,6 +32,7 @@ export default {
             "Vue 3",
             "Next JS",
             "React Native",
+            "Google Analytics",
             "Azure and AWS Cloud",
             "TypeScript",
             "Serverless",
