@@ -26,7 +26,7 @@ export default {
             "Fullstack Developer na Cia Latinoamericana de Medicamentos (CLAMED)",
           date: "out 2021 Joinville - Santa Catarina / BR",
           location:
-            "Innovation analyst and software engineer. Exploring the most modern ways to do universal and portable software using JavaScript and cloud resources.",
+            "Innovation analyst and software engineer, specializing in exploring cutting-edge approaches to develop universal and portable software utilizing JavaScript and cloud resources. I bring a wealth of experience, having worked as a senior engineer on digital products within the pharmaceutical retail sector, focusing on advanced engineering solutions and technology-driven innovations.",
           description: "out 2021 Joinville - Santa Catarina / BR",
           techList: [
             "Vue 3",
@@ -37,6 +37,7 @@ export default {
             "Serverless",
             "Node JS",
             "Microsoft Power Automate",
+            "Tensor Flow",
           ],
         },
         {
@@ -44,27 +45,29 @@ export default {
           date: "jun 2021 - out 2021",
           location: "Porto Alegre - Rio Grande do Sul / BR",
           description:
-            "Full stack developer exploring magnificence with JavaScript and cloud resources.",
+            "Full stack developer exploring magnificence with JavaScript and cloud resources. I did medical data analysis and interpretation, seeking the best ways to extract important information from large pools of data on RedCap systems.",
           techList: [
             "Vue 3",
             "Next JS",
             "React JS",
             "Azure and AWS Cloud",
             "Serverless",
+            "RedCap",
           ],
         },
         {
-          title: "Frontend Software Developer na Ommed",
+          title: "Frontend Software Developer na startup Ommed",
           date: "mar 2021 - jun 2021",
           location: "Florianópolis - Santa Catarina / BR",
-          description: "Frontend leader developer:",
+          description:
+            "Frontend lead developer, steering the integration of cutting-edge features like gRPC and Vue 3 for a telemedicine project, prominently showcased at https://www.ommed.com/. This initiative received exceptional acclaim, emphasizing my dedication to leveraging the latest technologies and delivering innovative solutions.",
           techList: ["Vue 3", "gRPC", "PrimeVUE", "Sass"],
         },
         {
           title: "Fullstack Developer Self employed",
           date: "mar 2020 - mar 2021 Florianópolis - Santa Catarina / BR",
           description:
-            "Development and maintenance of web applications based on JavaScript, Node JS, and cloud server (AWS and Google).",
+            "Development and maintenance of web applications based on JavaScript for multiple clients marked my first solo journey in the dynamic realm of innovation and software engineering. This role was highly demanding and exceptionally rewarding, involving extensive collaboration with diverse clients.",
           techList: [
             "Nuxt.js",
             "Vue.js",
@@ -78,7 +81,7 @@ export default {
           title: "Software and hardware engineer Self employed",
           date: "mar 2016 - mar 2020 Florianópolis - Santa Catarina / BR",
           description:
-            "Independent work developing and maintaining static and dynamic web systems for multiple clients. Development and research of new electronic products for home automation combining hardware components with software developed for the web (IoT).",
+            "Independent work developing and maintaining static and dynamic web systems for multiple clients. Development and research of new electronic products for home automation combining hardware components with software developed for the web (IoT). Successfully patented a system for in-building data transmission using single wire technology and farely new concepts (BR 102019004447-0). Software stacks utilized:",
           techList: [
             "React JS",
             "Angular 2+",
@@ -97,7 +100,7 @@ export default {
           techList: [
             "Java 8",
             "JSF",
-            "Javascript",
+            "JavaScript",
             "Maven",
             "Gradle",
             "Jetty",

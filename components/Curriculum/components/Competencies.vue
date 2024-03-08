@@ -31,6 +31,7 @@ export default {
         { id: 20, name: "Cypress" },
         { id: 21, name: "Jenkins" },
         { id: 22, name: "GitLab" },
+        { id: 22, name: "Scrum" },
       ],
     };
   },
