@@ -23,11 +23,26 @@ export default {
       jobs: [
         {
           title:
-            "Fullstack Developer na Cia Latinoamericana de Medicamentos (CLAMED)",
-          date: "out 2021 Joinville - Santa Catarina / BR",
+            "Fullstack Developer na TOTALFOR Tecnologia",
+          date: "mar 2024 - current date",
           location:
-            "Innovation analyst and software engineer, specializing in exploring cutting-edge approaches to develop universal and portable software utilizing JavaScript and cloud resources. I bring a wealth of experience, having worked as a senior engineer on digital products within the pharmaceutical retail sector, focusing on advanced engineering solutions and technology-driven innovations.",
-          description: "out 2021 Joinville - Santa Catarina / BR",
+            "Florianópolis - Santa Catarina / BR",
+          description: "Fullstack developer working heavely with React and Java.",
+          techList: [
+            "Vite",
+            "React",
+            "Next JS",
+            "Java 21",
+            "Spring Boot",
+            "PostgreSQL",
+          ],
+        },
+        {
+          title:
+            "Fullstack Developer na Cia Latinoamericana de Medicamentos (CLAMED)",
+          date: "out 2021 - mar 2024",
+          location: "Joinville - Santa Catarina / BR",
+          description: "Innovation analyst and software engineer, specializing in exploring cutting-edge approaches to develop universal and portable software utilizing JavaScript and cloud resources. I bring a wealth of experience, having worked as a senior engineer on digital products within the pharmaceutical retail sector, focusing on advanced engineering solutions and technology-driven innovations.",
           techList: [
             "Vue 3",
             "Next JS",
